@@ -1,1 +1,1 @@
-测试git branch
+Creating a new branch is quick & simple.
